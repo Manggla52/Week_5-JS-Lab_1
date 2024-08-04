@@ -3,7 +3,7 @@
 **Due: Sunday, 4 August 2024, 11:59 PM**
 []Create a Website that solves 3 Javascript Problems
 
-[]1. Smallest of Three Numbers (33%)
+[X]1. Smallest of Three Numbers (33%)
 Problem Statement:
 Create a function that takes three numbers as input and determines the smallest number.
 
